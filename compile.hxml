@@ -1,0 +1,11 @@
+-cp src
+-cp test
+-cp res
+
+-lib heaps
+-lib ludi-commons
+-lib heaps-feather-icons
+
+-js bin/out.js
+
+--main TestDisplay
