@@ -2,6 +2,10 @@
 
 A kit of simple, portable Heaps.io gui components.
 
+```
+haxelib install heaps-simplegui
+```
+
 [Demo](https://cardgdev.github.io/heaps-simplegui/bin/)
 
 These components are not meant to be aesthetic and are largely not stylable out of the box. They are meant for bootstrapping simple GUIs and easy prototyping. The most important goal of these components is *portability*. As far as I know, everything in this library can be easily copy pasted into any existing Heaps project. They are built on simple standard Heaps building blocks and don't do any voodoo.
