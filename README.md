@@ -63,7 +63,7 @@ Like I said, these components are meant for simple bootstrapping and prototyping
 
 - `heaps.simplegui.components.control.GridInteractive`
   
-    This is an advanced control that lets you create a grid and listen to inputs on the cells. This is a 4-D container: you define the x/y cell positions, the z layer index, AND the "layer group". 
+    This is an advanced control that lets you create a grid and listen to inputs on the cells. This is a 4-D container: you define the x/y cell positions, the z layer index, AND the "layer group". Note that this is not a layout tool -- it is not meant to be used to align a layout into rows and columns (use XFlow2D for that).
 
 - `heaps.simplegui.components.control.InputField`
   
